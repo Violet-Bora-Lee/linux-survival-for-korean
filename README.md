@@ -3,13 +3,41 @@
 
 ## 모듈1
 
-1) 다른 디렉토리로 이동하기
-2) 파일이나 디렉토리 이동시키기
-3) 파일이나 디렉토리 이름 변경하기
-4) 현재 디렉토리 내용 출력하기
-5) 현재 작업 디렉토리 출력하기
-6) 새로운 디렉토리 만들기
-7) 파일 내용 보여주기
+1. 다른 디렉토리로 이동하기
+    <details>
+      <summary>정답</summary>
+      cd
+    </details>
+2. 파일이나 디렉토리 이동시키기
+    <details>
+      <summary>정답</summary>
+      mv
+    </details>
+3. 파일이나 디렉토리 이름 변경하기
+    <details>
+      <summary>정답</summary>
+      mv
+    </details>
+4. 현재 디렉토리 내용 출력하기
+    <details>
+      <summary>정답</summary>
+      ls
+    </details>
+5. 현재 작업 위치 출력하기
+    <details>
+      <summary>정답</summary>
+      pwd
+    </details>
+6. 새로운 디렉토리 만들기
+    <details>
+      <summary>정답</summary>
+      mkdir
+    </details>
+7. 파일 내용 보여주기
+    <details>
+      <summary>정답</summary>
+      more, cat 등
+    </details>
 
 
 
