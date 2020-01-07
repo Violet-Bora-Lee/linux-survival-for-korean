@@ -13,4 +13,14 @@
 
 - 모듈2
 
-  
+  - [Module 2 Introduction](linux-tutorial-module-2-introduction.md)
+  - [Pathnames](linux-pathnames.md)
+  - [Copy File](linux-copy-command.md)
+  - [Remove File](linux-remove-file-command.md)
+  - [Remove Directory](linux-remove-directory-command.md)
+  - [File Security](linux-file-security-permissions-part-1.md)
+  - [Change File Permissions](https://linuxsurvival.com/linux-change-file-permissions-command-part-1.md)
+  - [Wildcards](linux-wildcards-part-1.md)
+  - [Group Memberships](linux-groups-command.md)
+  - [Quiz 2](linux-tutorial-quiz-2.md)
+  - [End of Module 2](linux-tutorial-end-of-module-2.md)

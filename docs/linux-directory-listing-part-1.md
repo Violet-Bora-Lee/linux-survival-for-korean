@@ -13,7 +13,7 @@
 <br>
 <br>
 
-?> 링크: [ https://linuxsurvival.com/linux-directory-listing-part-2/]()
+?> 링크: [https://linuxsurvival.com/linux-directory-listing-part-2/]()
 
 지루해지기 전에 상황을 하나 가정해서 흥미를 돋워봅시다.
 
