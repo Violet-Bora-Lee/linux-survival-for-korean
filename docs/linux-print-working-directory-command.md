@@ -1,6 +1,6 @@
 # 현재 작업 위치 얻기
 
-?> 링크: [https://linuxsurvival.com/linux-print-working-directory-command/]()
+?> 링크: [https://linuxsurvival.com/linux-print-working-directory-command/](https://linuxsurvival.com/linux-print-working-directory-command/)
 
 일부 개발자들은 디렉터리를 변경할 때마다 프롬프트에 변경 내용이 표시되도록 리눅스 설정을 변경해 놓고 작업합니다. 설정을 변경하면 오른쪽 프롬프트처럼 머신의 이름(zoo)이 나오고, 콜론(:) 옆에 현재 작업 디렉터리의 이름(primates)이 보입니다. 이렇게 설정을 변경해 놓지 않았다면 현재 작업 디렉터리가 어디인지 알려주는 명령어를 입력해 직접 확인해야 합니다.
 
@@ -31,7 +31,7 @@
 <br>
 <br>
 
-?> 링크: [https://linuxsurvival.com/linux-print-working-directory-command/]()
+?> 링크: [https://linuxsurvival.com/linux-print-working-directory-command/](https://linuxsurvival.com/linux-print-working-directory-command/)
 
 `ls` 명령어로 파일을 제대로 옮겼는지 확인했으니, 다시 한 단계 위 디렉터리인 animals로 돌아가 정리를 다시 시작해봅시다.
 
@@ -52,7 +52,7 @@
 <br>
 
 ?> 링크: [https://linuxsurvival.com/linux-change-to-parent-directory-part-2/
-]()
+](https://linuxsurvival.com/linux-change-to-parent-directory-part-2/)
 
 상위 디렉터리로 이동하는 명령어를 입력해 animals 디렉터리로 이동한 후, 현재 작업 디렉터리를 출력해주는 명령어를 입력해 원하는 디렉터리로 변경되었는지 확인해 봅시다.
 
@@ -77,7 +77,7 @@ OK 버튼을 누르면 프롬프트로 다시 돌아갑니다. 프롬프트에�
 <br>
 <br>
 
-?> 링크: [https://linuxsurvival.com/linux-mkdir-and-mv-commands/]()
+?> 링크: [https://linuxsurvival.com/linux-mkdir-and-mv-commands/](https://linuxsurvival.com/linux-mkdir-and-mv-commands/)
 
 벌써 꽤 많은 작업을 했습니다. 이제 cobras 파일이 들어갈 장소가 필요하다는 생각이 들 겁니다. cobras를 reptiles(파충류)에 넣어봅시다.
 

@@ -1,6 +1,6 @@
 # 모듈 2 소개
 
-?> 링크: [https://linuxsurvival.com/linux-tutorial-module-2-introduction/]()
+?> 링크: [https://linuxsurvival.com/linux-tutorial-module-2-introduction/](https://linuxsurvival.com/linux-tutorial-module-2-introduction/)
 
 모듈1에선 파일 조작을 위해 필요한 기본 명령어를 학습했습니다. 모듈 2에선 모듈1에서 배운 명령어 이외에 파일 조작에 필요한 명령어와 여러 개념을 학습할 예정입니다. 그리고 추가적으로 보안 관련 기본 명령어를 다루겠습니다.
 

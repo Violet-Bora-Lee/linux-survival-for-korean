@@ -1,6 +1,6 @@
 # 모듈 2 마무리
 
-?> 링크: [https://linuxsurvival.com/linux-tutorial-end-of-module-2/]()
+?> 링크: [https://linuxsurvival.com/linux-tutorial-end-of-module-2/](https://linuxsurvival.com/linux-tutorial-end-of-module-2/)
 
 Congratulations! You've finished the first and second modules of the Linux Survival course, and it wasn't even very painful, was it? You should now have a pretty good idea how to get around in a Linux environment. The commands you have learned in these modules are ones that you will probably use more often than any other commands.
 

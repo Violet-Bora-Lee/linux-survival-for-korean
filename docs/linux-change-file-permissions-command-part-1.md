@@ -1,6 +1,6 @@
 # 파일 권한 수정하기
 
-?> 링크: [https://linuxsurvival.com/linux-change-file-permissions-command-part-1/]()
+?> 링크: [https://linuxsurvival.com/linux-change-file-permissions-command-part-1/](https://linuxsurvival.com/linux-change-file-permissions-command-part-1/)
 
 The command you use to change the security permissions on files has a horribly cryptic name. It's called "chmod", which stands for "change mode", because the nine security characters are collectively called the security "mode" of the file.
 
@@ -29,7 +29,7 @@ Click the right arrow to continue.
 <br>
 <br>
 
-?> 링크: [https://linuxsurvival.com/linux-change-file-permissions-command-part-2/]()
+?> 링크: [https://linuxsurvival.com/linux-change-file-permissions-command-part-2/](https://linuxsurvival.com/linux-change-file-permissions-command-part-2/)
 
 Okay, time to get back into action. Type the command to give "write" permission to the prim "group" for file "chimps".
 

@@ -1,6 +1,6 @@
 # 파일 위치 옮기기, 파일 이름 변경하기
 
-?> 링크: [https://linuxsurvival.com/linux-move-and-rename-file-command/]()
+?> 링크: [https://linuxsurvival.com/linux-move-and-rename-file-command/](https://linuxsurvival.com/linux-move-and-rename-file-command/)
 
 이제 영장류(primate)에 해당하는 파일들을 모두 primates 디렉터리로 옮겨봅시다. 
 

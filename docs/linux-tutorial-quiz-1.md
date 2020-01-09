@@ -1,6 +1,6 @@
 # 모듈 1 퀴즈
 
-?> 링크: [https://linuxsurvival.com/linux-tutorial-quiz-1/]()
+?> 링크: [https://linuxsurvival.com/linux-tutorial-quiz-1/](https://linuxsurvival.com/linux-tutorial-quiz-1/)
 
 각 설명에 해당하는 명령어를 입력하세요.
 

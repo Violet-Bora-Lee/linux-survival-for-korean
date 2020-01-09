@@ -1,6 +1,6 @@
 # 와일드카드
 
-?> 링크: [https://linuxsurvival.com/linux-wildcards-part-1/]()
+?> 링크: [https://linuxsurvival.com/linux-wildcards-part-1/](https://linuxsurvival.com/linux-wildcards-part-1/)
 
 We could get you to type two more "chmod" commands to modify the permissions of "gorillas" and "sq_monks", but there's an easier way using "wildcards".
 
@@ -15,7 +15,7 @@ Click the right arrow.
 <br>
 <br>
 
-?> 링크: [https://linuxsurvival.com/linux-directory-listing-part-2/]()
+?> 링크: [https://linuxsurvival.com/linux-directory-listing-part-2/](https://linuxsurvival.com/linux-directory-listing-part-2/)
 
 Type the command to give "write" permission to the prim "group" on "all files" in the current directory.
 

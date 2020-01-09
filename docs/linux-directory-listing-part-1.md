@@ -1,6 +1,6 @@
 # 디렉터리 내용 나열하기
 
-?> 링크: [https://linuxsurvival.com/linux-directory-listing-part-1/]()
+?> 링크: [https://linuxsurvival.com/linux-directory-listing-part-1/](https://linuxsurvival.com/linux-directory-listing-part-1/)
 
 아마도 가장 많이 사용되는 리눅스 명령어는 `ls`일 겁니다. `ls`는 현재 작업 디렉터리의 내용을 출력하는 데 사용됩니다.
 
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-?> 링크: [https://linuxsurvival.com/linux-directory-listing-part-2/]()
+?> 링크: [https://linuxsurvival.com/linux-directory-listing-part-2/](https://linuxsurvival.com/linux-directory-listing-part-2/)
 
 지루해지기 전에 상황을 하나 가정해서 흥미를 돋워봅시다.
 
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-?> 링크: [https://linuxsurvival.com/linux-directory-listing-part-3/]()
+?> 링크: [https://linuxsurvival.com/linux-directory-listing-part-3/](https://linuxsurvival.com/linux-directory-listing-part-3/)
 
 리눅스 환경에서 앞서 가정한 파일 구조가 어떻게 생겼는지 확인해보도록 합시다.
 

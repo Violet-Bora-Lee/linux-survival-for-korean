@@ -1,6 +1,6 @@
 # 파일 내용 보기
 
-?> 링크: [https://linuxsurvival.com/linux-more-command/]()
+?> 링크: [https://linuxsurvival.com/linux-more-command/](https://linuxsurvival.com/linux-more-command/)
 
 파일을 넘나들며 탐색하기 전에, 파일 하나를 선택해 그 내용을 살펴봅시다. 파일 cobras에 제대로 된 정보가 기록되었는지 확인해보겠습니다.
 

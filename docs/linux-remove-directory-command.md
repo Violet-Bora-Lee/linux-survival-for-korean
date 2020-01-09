@@ -1,7 +1,7 @@
 # 디렉토리 삭제하기
 
 ?> 링크: [https://linuxsurvival.com/linux-remove-directory-command/
-]()
+](https://linuxsurvival.com/linux-remove-directory-command/)
 
 이제 reptiles디렉토리를 지워봅시다. 디
 렉토리 삭제(remove directory)를 할 때 쓰이는 명령어는 `rmdir`입니다. fish라는 이름을 가진 디렉토리를 지우려면 아래와 같은 명령어를 입력하면 됩니다.
@@ -22,7 +22,7 @@ reptiles 디렉토리를 지우는 명령어를 입력합시다.
 <br>
 
 ?> 링크: [https://linuxsurvival.com/create-pachyderms-directory/
-]()
+](https://linuxsurvival.com/create-pachyderms-directory/)
 
 Okay, now that we've shown you a fairly painful way to accomplish this task, it's time to reveal the easy way. You could have just typed "mv reptiles snakes" because the "mv" command can be used to rename directories as well as files. I hope you're not too upset about being led down the garden path -- it was a useful exercise.
 

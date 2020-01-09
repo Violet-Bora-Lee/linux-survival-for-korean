@@ -1,6 +1,6 @@
 # 디렉터리 구조
 
-?> 링크: [https://linuxsurvival.com/linux-directory-structure/]()
+?> 링크: [https://linuxsurvival.com/linux-directory-structure/](https://linuxsurvival.com/linux-directory-structure/)
 
 리눅스 환경 조작에 사용되는 명령어를 학습하기 전에, 리눅스 파일 구조가 어떻게 생겼는지 빠르게 살펴봅시다.
 

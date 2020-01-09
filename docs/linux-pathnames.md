@@ -1,6 +1,6 @@
 # 경로 이름
 
-?> 링크: [https://linuxsurvival.com/linux-pathnames/]()
+?> 링크: [https://linuxsurvival.com/linux-pathnames/](https://linuxsurvival.com/linux-pathnames/)
 
 ‘경로 이름(pathname)'에 대해 알아볼 때가 된 것 같습니다.
 

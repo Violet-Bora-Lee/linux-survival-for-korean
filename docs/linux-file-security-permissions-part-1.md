@@ -1,7 +1,7 @@
 # 파일 보안
 
 ?> 링크: [https://linuxsurvival.com/linux-file-security-permissions-part-1/
-]()
+](https://linuxsurvival.com/linux-file-security-permissions-part-1/)
 
 Now it's time to talk about security. Linux is a multi-user operating system, so it has security to prevent people from accessing each other's confidential files.
 
@@ -21,7 +21,7 @@ Click the right arrow to continue.
 <br>
 
 ?> 링크: [https://linuxsurvival.com/linux-file-security-permissions-part-2/
-]()
+](https://linuxsurvival.com/linux-file-security-permissions-part-2/)
 
 There's a lot of information in those lines (and we've even simplified things for clarity).
 
@@ -46,7 +46,7 @@ Click the right arrow to continue.
 <br>
 
 ?> 링크: [https://linuxsurvival.com/linux-file-security-permissions-part-3/
-]()
+](https://linuxsurvival.com/linux-file-security-permissions-part-3/)
 
 Deciphering the security characters will take a bit more work.
 

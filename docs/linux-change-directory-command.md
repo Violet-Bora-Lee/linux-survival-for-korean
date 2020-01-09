@@ -1,6 +1,6 @@
 # 디렉터리 변경하기
 
-?> 링크: [https://linuxsurvival.com/linux-change-directory-command/]()
+?> 링크: [https://linuxsurvival.com/linux-change-directory-command/](https://linuxsurvival.com/linux-change-directory-command/)
 
 지루해지는 것을 방지하기 위해 chimps를 제외한 다른 영장류 파일 두 개를 미리 primates에 옮겨두었습니다. 
 

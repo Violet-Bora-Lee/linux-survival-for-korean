@@ -1,6 +1,6 @@
 # 디렉터리 만들기
 
-?> 링크: [https://linuxsurvival.com/linux-make-directory-command/]()
+?> 링크: [https://linuxsurvival.com/linux-make-directory-command/](https://linuxsurvival.com/linux-make-directory-command/)
 
 이제 본격적으로 파일들을 정리해 봅시다. 먼저, animals 디렉터리 아래에 ‘primates’ 디렉터리를 만듭시다.  ‘Make directory’를 줄인 명령어, `mkdir`을 사용하면 디렉터리를 만들 수 있습니다. 
 

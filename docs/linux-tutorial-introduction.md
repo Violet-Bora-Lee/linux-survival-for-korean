@@ -1,6 +1,6 @@
 # 모듈1 소개
 
-?> 링크: [https://linuxsurvival.com/linux-tutorial-introduction/]()
+?> 링크: [https://linuxsurvival.com/linux-tutorial-introduction/](https://linuxsurvival.com/linux-tutorial-introduction/)
 
 리눅스 서바이벌은 리눅스를 쉽게 배울 수 있게 구성한 무료 튜토리얼입니다. 리눅스에는 수많은 명령어가 있는데, 실무에서 주로 사용하는 명령어는 그리 많지 않습니다.
 
