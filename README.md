@@ -6,22 +6,22 @@ https://violet-bora-lee.github.io/linux-survival-for-korean/#/
 
 ## 모듈1
 
-1. 다른 디렉토리로 이동하기
+1. 다른 디렉터리로 이동하기
     <details>
       <summary>정답</summary>
       cd
     </details>
-2. 파일이나 디렉토리 이동시키기
+2. 파일이나 디렉터리 이동시키기
     <details>
       <summary>정답</summary>
       mv
     </details>
-3. 파일이나 디렉토리 이름 변경하기
+3. 파일이나 디렉터리 이름 변경하기
     <details>
       <summary>정답</summary>
       mv
     </details>
-4. 현재 디렉토리 내용 출력하기
+4. 현재 디렉터리 내용 출력하기
     <details>
       <summary>정답</summary>
       ls
@@ -31,7 +31,7 @@ https://violet-bora-lee.github.io/linux-survival-for-korean/#/
       <summary>정답</summary>
       pwd
     </details>
-6. 새로운 디렉토리 만들기
+6. 새로운 디렉터리 만들기
     <details>
       <summary>정답</summary>
       mkdir
