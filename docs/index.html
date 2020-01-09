@@ -10,16 +10,20 @@
 </head>
 <body>
   <div id="app">로딩중...</div>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
       name: '',
       repo: '',
       loadSidebar: true,
       name: '리눅스 서바이벌',
-      ga: 'UA-155900462-1'
+      ga: 'UA-155900462-1',
+      plugins: [
+          EditOnGithubPlugin.create('https://github.com/Violet-Bora-Lee/linux-survival-for-korean/tree/master/docs/', null, '수정하기')
+      ]
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
 </body>
 </html>
