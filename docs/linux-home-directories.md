@@ -2,41 +2,42 @@
 
 ?> 링크: [https://linuxsurvival.com/linux-home-directories/](https://linuxsurvival.com/linux-home-directories/)
 
-Before we get started on our first exercise, we need to introduce the concept of "home directories".
+첫 번째 연습문제를 풀기 전에 '홈 디렉터리'라는 개념에 대해 먼저 소개해 드려야 할 것 같습니다.
 
-In a multi-user system, it is convenient for each user to have his or her own private place to store files. Linux calls this private place your "home directory". If your Linux network has been set up in a secure manner, then you are the only regular user who can access the files in your home directory. That is, no one other than yourself and the system administrator can even see the names of your files. However, if you would like to give other people access to your files, you can do so using the "chmod" command.
+멀티 유저 시스템에선 사용자마다 독립적인 공간을 할당해줘서 독립 공간에 파일을 저장할 수 있도록 하는 것이 좋습니다. 리눅스에선 이런 독립 공간을 '홈 디렉터리(home directory)'라고 부릅니다. 제대로 보안 설정을 해 놓았다면 나의 홈 디렉터리에 접근할 수 있는 사람은 오직 나뿐입니다. 시스템 관리자나 자기 자신을 제외하곤 파일 이름조차 볼 수 없습니다. 다른 사람이 내 홈 디렉터리에 있는 파일을 볼 수 있게 하려면 `chmod` 명령어를 사용하면 됩니다.
 
-The location of home directories varies greatly between systems. In the diagram to the right, home directories are located under a directory called "/home", but they could just as easily be located under a directory called "/user". We'll show you how to find out where yours is located.
+홈 디렉터리의 위치는 시스템마다 다릅니다. 오른쪽 그래프를 보면 홈 디렉터리는 '/home' 아래에 있습니다. 사용자 이름을 나타내는 'keeper', 'bookie'가 홈 디렉터리입니다. 각자 사용 중인 시스템에서 홈 디렉터리 위치를 찾는 방법에 대해서는 곧 설명하겠습니다.
 
-When you login to your Linux system, you are automatically placed in your home directory. So, if you want to display its pathname, simply login, then type "pwd". In our example, the output would be "/home/keeper".
+리눅스 시스템에 로그인하면 자동으로 홈 디렉터리에 위치하게 됩니다. 그러므로 로그인 하자마자 `pwd`를 입력하면 홈 디렉터리의 경로 이름을 알 수 있습니다. 현재 실습 중인 환경의 홈 디렉터리는 '/home/keeper'입니다.
 
-Because most people need to refer to their home directories on a regular basis, Linux makes them easy to specify. You can use the tilde (~ - it's above the Tab key on your keyboard) everywhere that you would normally use "/home/keeper".
+홈 디렉터리의 위치를 명시해야 하는 경우가 자주 있어서 리눅스에선 홈 디렉터리를 명시하는 방법을 따로 만들어두었습니다. 탭키 위에 있는 물결 `~`을 사용하면 어느 위치에서든 홈 디렉터리를 가리킬 수 있습니다.
 
-For example, if you wanted to copy a file called "jokes" from your home directory to the "/tmp" directory, you could just type
+홈 디렉터리에 있는 파일 'jokes'를 복사해서 '/tmp'에 복사하려면 아래와 같은 명령어를 입력하면 됩니다.
 
-	         cp ~/jokes /tmp
+> cp ~/jokes /tmp
 
-rather than
+아래 명령어 대신 말이죠.
 
-               cp /home/keeper/jokes /tmp
+> cp /home/keeper/jokes /tmp
 
-You can even use the tilde to specify another user's home directory. If '~' is immediately followed by a User ID, then it no longer refers to your own home directory; it refer's to User ID's home directory. For example, if you wanted to go into bookie's home directory, you could just type
+물결 기호는 다른 사용자의 홈 디렉터리를 명시할 때도 사용할 수 있습니다. 사용자 ID 앞에 물결 `~`이 오면 자신의 홈 디렉터리를 나타내지 않고 해당 사용자의 홈 디렉터리를 나타내게 됩니다. ID가 bookie인 사용자의 홈 디렉터리로 이동하려면 아래와 같은 명령어를 입력하면 됩니다.
 
-	          cd ~bookie
+> cd ~bookie
 
-rather than
+아래 명령어 대신 말이죠.
 
-	      cd /home/bookie
+> cd /home/bookie
 
-In fact, '~' by itself is just a short form of "~keeper".
+`~`는 '~keeper'를 줄인 것이라고 생각하면 됩니다.
 
-Remember that if you put anything after '~' other than '/', Linux will assume that you are referring to another user's home directory. So, in our "cp ~/jokes /tmp" example above, if we had typed
+리눅스는 `~`뒤에 띄어쓰기 없이 바로 무언가를 붙이면 `/`와는 달리 특정 사용자의 홈 디렉터리를 명시하는 것이라고 해석합니다. 따라서 위 예시에서 `cp ~/jokes /tmp`대신에 아래 명령어를 입력하면 에러가 발생합니다.
 
-                        cp ~jokes /tmp
+> cp ~jokes /tmp
 
-instead, we would have received an error message because there is no User ID called "jokes".
+ID가 'jokes'인 사용자는 없기 때문입니다.
 
-One of the nicest things about using the tilde is that you don't have to know where anyone's home directory is located. Sometimes system administrators will move home directories to new locations to alleviate disk space problems. If you always use the tilde, you might not even notice such moves.
+물결을 사용하면 다른 사용자의 홈 디렉터리가 어디에 있는지 알 필요가 없어서 좋습니다. 디스크 용량이 꽉 차면 시스템 관리자가 특정 사용자의 홈 디렉터리를 옮기는 경우가 종종 생깁니다. 물결을 사용하면 디렉터리가 어디로 이동했는지 물어볼 필요가 없습니다.
 
-Click the right arrow.
+!> Git Bash에서 설정을 변경하려면 홈 디렉터리의 개념을 알아야 합니다. 홈 디렉터리로 이동하기 위해선 `cd ~`를 입력하면 됩니다.
 
+!> [Git Bash 설정 변경하기 참고 자료](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95)
