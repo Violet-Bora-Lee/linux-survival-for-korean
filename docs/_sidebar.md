@@ -27,8 +27,8 @@
  
 - 모듈3
 
-  - [Module 3 Introduction](linux-tutorial-module-3-introduction.md "모듈3 소개")
+  - [Module 3 Introduction(WIP)](linux-tutorial-module-3-introduction.md "모듈3 소개")
   - [Home Directories](linux-home-directories.md "홈 디렉터리")
-  - [Manual Pages](linux-manual-pages.md "매뉴얼 페이지")
-  - [User Information](linux-man-command-exercise.md "사용자 정보")
-  - [Find File](linux-find-command-part-1.md "파일 찾기")
+  - [Manual Pages(WIP)](linux-manual-pages.md "매뉴얼 페이지")
+  - [User Information(WIP)](linux-man-command-exercise.md "사용자 정보")
+  - [Find File(WIP)](linux-find-command-part-1.md "파일 찾기")
