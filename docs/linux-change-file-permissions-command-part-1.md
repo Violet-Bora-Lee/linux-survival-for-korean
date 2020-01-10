@@ -50,6 +50,3 @@ Then type the command to give a long listing of the files so you can check your 
 ```다이얼로그 창
 맞았습니다.
 ```
-
-chmod g+w chimps
-ls -l
