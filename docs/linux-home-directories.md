@@ -40,4 +40,6 @@ ID가 'jokes'인 사용자는 없기 때문입니다.
 
 !> Git Bash에서 설정을 변경하려면 홈 디렉터리의 개념을 알아야 합니다. 홈 디렉터리로 이동하기 위해선 `cd ~`를 입력하면 됩니다.
 
-!> [Git Bash 설정 변경하기 참고 자료](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95)
+!> Git Bash 설정 변경하기 참고 자료
+  - [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
+  - [git-scm.com 자료](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95)
